@@ -1,5 +1,6 @@
 // In App.js everything comes together form components and/or pages;
 import MenueBar from "./components/MenueBar";
+import Project from "./pages/Project";
 import "./index.css";
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     // these are fragments <> + </>
     <>
       <MenueBar />
+      <Project />
     </>
   );
 }

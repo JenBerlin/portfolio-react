@@ -2,7 +2,14 @@
   {
     "name": "Pack On Track",
     "description": "bla, bla, bla",
-    "image": "bla, bla, bla",
+    "image": "./images/20388698.jpg",
+    "GitHub": "url",
+    "Deployed": "url"
+  },
+  {
+    "name": "Carbon Down",
+    "description": "bla, bla, bla",
+    "image": "./images/giphy.gif",
     "GitHub": "url",
     "Deployed": "url"
   }
