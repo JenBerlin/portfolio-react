@@ -1,1 +1,54 @@
 /* This file can be the main css file for all componentes; it can be also in single files */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
+
+.navbar {
+  font-family: "Roboto", sans-serif;
+  background-color: #e64b3c;
+}
+
+.nav-text {
+  color: red;
+}
+
+.nav-link {
+  color: #b4d4d9 !important;
+  font-size: larger;
+}
+.about-text {
+  padding-top: 180px;
+  font-size: larger;
+  color: #6d6f72;
+  line-height: 180%;
+  padding-right: 50px;
+}
+
+.about-text-inside {
+  font-weight: bolder;
+}
+.backgroundImage {
+  background-image: url("../public/images/Foto_sw.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
+  opacity: 45%;
+  min-height: calc(100vh - 200px);
+}
+
+.footer {
+  background-color: #b4d4d9;
+}
+
+.form {
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color: #2d3c50;
+}
+
+.button {
+  background-color: #1f0318;
+  color: #423e37;
+}
+
+.icons {
+  margin-left: 50px;
+  color: #e64b3c;
+}
