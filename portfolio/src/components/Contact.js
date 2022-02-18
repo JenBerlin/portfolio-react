@@ -27,6 +27,9 @@ function Contact() {
       </Row>
     </Form>
   );
+  <p className="about-text">
+    Feel free to get in touch directly via Email if you like!
+  </p>;
 }
 
 export default Contact;

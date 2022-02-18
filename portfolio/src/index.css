@@ -7,7 +7,6 @@
 }
 
 .nav-text {
-  color: red;
 }
 
 .nav-link {
@@ -40,15 +39,47 @@
 .form {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
-  color: #2d3c50;
+  color: #6d6f72;
+  font-size: larger;
+  min-height: calc(100vh - 200px);
+  display: flex;
 }
 
 .button {
-  background-color: #1f0318;
-  color: #423e37;
+  background-color: #e64b3c !important;
+  border: #e64b3c !important;
+  color: #b4d4d9 !important;
+  font-size: large !important;
+}
+
+.image {
+  max-width: 30%;
+}
+
+.card-title {
+  color: #6d6f72;
+  padding: 10px;
+  margin-bottom: 0% !important;
+  font-size: large !important;
+}
+
+.card-description {
+  color: #6d6f72;
+  padding: 10px;
+  font-size: large !important;
+  /* margin-bottom: 0% !important; */
+}
+
+.card-link {
+  color: #6d6f72;
+  padding: 10px;
 }
 
 .icons {
   margin-left: 50px;
   color: #e64b3c;
+}
+
+.card {
+  display: inline;
 }

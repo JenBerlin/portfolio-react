@@ -1,17 +1,69 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+import { FaGithub, FaChevronCircleRight } from "react-icons/fa";
 
 function ProjectCard(props) {
   return (
-    <Card style={{ width: "18rem" }}>
-      <Card.Img variant="top" src={process.env.PUBLIC_URL + props.image} />
-      <Card.Body>
-        <Card.Title>{props.title}</Card.Title>
-        <Card.Text>{props.description}</Card.Text>
-        <Card.Link href={props.gitLink}>{props.gitHub}</Card.Link>
-        <Card.Link href={props.deployedLink}>{props.deployed}</Card.Link>
-      </Card.Body>
-    </Card>
+    <Row>
+      {/* {Array.from({ length: 4 }).map((_, idx) => ( */}
+      <Col>
+        <Card className="card" style={{ width: "18rem" }}>
+          <Card.Img
+            className="image"
+            variant="top"
+            src={process.env.PUBLIC_URL + props.image}
+          />
+          <Card.Body>
+            <Card.Title className="card-title">{props.title}</Card.Title>
+            <Card.Text className="card-description">
+              {props.description}
+            </Card.Text>
+            <Card.Link
+              className="card-link"
+              href={props.gitLink}
+              target="_blank"
+            >
+              {/* {props.gitHub} */}
+              <FaGithub size={30} />
+            </Card.Link>
+            <Card.Link
+              className="card-link"
+              href={props.deployedLink}
+              target="_blank"
+            >
+              {/* {props.deployed} */}
+              <FaChevronCircleRight size={30} />
+            </Card.Link>
+          </Card.Body>
+        </Card>
+      </Col>
+      {/* ))} */}
+    </Row>
+    // <Card className="card bg-dark text-white">
+    //   <Card.Img
+    //     className="image"
+    //     src={process.env.PUBLIC_URL + props.image}
+    //     alt="Card image"
+    //   />
+    //   <Card.ImgOverlay>
+    //     <Card.Title className="card-title">{props.title}</Card.Title>
+    //     <Card.Text className="card-description">{props.description}</Card.Text>
+    //     <Card.Link className="card-link" href={props.gitLink} target="_blank">
+    //       {/* {props.gitHub} */}
+    //       <FaGithub size={30} />
+    //     </Card.Link>
+    //     <Card.Link
+    //       className="card-link"
+    //       href={props.deployedLink}
+    //       target="_blank"
+    //     >
+    //       {/* {props.deployed} */}
+    //       <FaChevronCircleRight size={30} />
+    //     </Card.Link>
+    //   </Card.ImgOverlay>
+    // </Card>
   );
 }
 

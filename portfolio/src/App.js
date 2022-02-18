@@ -11,8 +11,8 @@ function App() {
     // these are fragments <> + </>
     <>
       <MenueBar />
-      {/* <Project /> */}
-      <About />
+      <Project />
+      {/* <About /> */}
       {/* <Contact /> */}
       <Footer />
     </>

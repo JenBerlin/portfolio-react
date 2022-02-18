@@ -1,16 +1,23 @@
 [
   {
     "name": "Pack On Track",
-    "description": "bla, bla, bla",
-    "image": "./images/20388698.jpg",
-    "GitHub": "url",
-    "Deployed": "url"
+    "description": "Pack On Track is a handy light-weight web app which keeps track of all your active online orders for you.",
+    "image": "./images/Pack_On_Track.gif",
+    "GitHub": "https://github.com/JenBerlin/Pack-On-Track/tree/dev",
+    "Deployed": "https://intense-lowlands-65258.herokuapp.com/"
   },
   {
     "name": "Carbon Down",
-    "description": "bla, bla, bla",
-    "image": "./images/giphy.gif",
-    "GitHub": "url",
-    "Deployed": "url"
+    "description": "Carbon Down app brings a real-world-problem to user's attention: the common responsible goal to track/reduce carbon emissions.",
+    "image": "./images/Carbon_Down.gif",
+    "GitHub": "https://github.com/jitasek/carbon-down",
+    "Deployed": "https://jitasek.github.io/carbon-down/"
+  },
+  {
+    "name": "Social Network API",
+    "description": "The repository contains a builded API for a social network web application.",
+    "image": "./images/Social_Network.gif",
+    "GitHub": "https://github.com/JenBerlin/Social-Network-API/tree/dev",
+    "Deployed": "https://drive.google.com/file/d/1uDXA3lKp52cEmvspV-cMGrTdqMEbpuhu/view?usp=sharing"
   }
 ]
