@@ -1,7 +1,7 @@
 import React from "react";
 
-function Resumee() {
+function Resume() {
   return <p>Hello</p>;
 }
 
-export default Resumee;
+export default Resume;
