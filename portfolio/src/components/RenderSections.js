@@ -22,7 +22,7 @@ function Sections({ currentPage }) {
   };
   return (
     <div>
-      <h2>{currentPage.name}</h2>
+      {/* <h2>{currentPage.name}</h2> */}
       <Content>{renderSections()}</Content>
     </div>
   );

@@ -87,4 +87,5 @@
 
 .card {
   display: inline;
+  min-height: calc(100vh - 200px);
 }
