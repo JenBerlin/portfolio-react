@@ -50,6 +50,20 @@
   display: flex;
 }
 
+.p-x-4 {
+  padding-right: 3rem;
+  padding-left: 3rem;
+  padding-top: 2rem;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.m-auto {
+  margin: auto;
+}
+
 .message {
   color: #e64b3c;
   font-weight: bolder;
