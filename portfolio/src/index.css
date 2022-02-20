@@ -50,6 +50,11 @@
   display: flex;
 }
 
+.message {
+  color: #e64b3c;
+  font-weight: bolder;
+}
+
 .button {
   background-color: #e64b3c !important;
   border: #e64b3c !important;
