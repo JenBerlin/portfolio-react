@@ -108,3 +108,13 @@
   display: inline;
   min-height: calc(100vh - 200px);
 }
+
+.link {
+  font-size: large;
+  color: #e64b3c;
+  font-weight: bolder;
+}
+.resume-list-headlines {
+  font-weight: bolder;
+  color: #b4d4d9;
+}

@@ -1,11 +1,8 @@
-# React_Portfolio
-
-# 14 Model-View-Controller (MVC): Tech Blog
+# 20 React_Portfolio
 
 Table of content
 
-- [React_Portfolio](#react_portfolio)
-- [14 Model-View-Controller (MVC): Tech Blog](#14-model-view-controller-mvc-tech-blog)
+- [20 React_Portfolio](#20-react_portfolio)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
