@@ -77,7 +77,9 @@
 }
 
 .image {
-  max-width: 30%;
+  max-width: 90%;
+  padding-left: 25px;
+  padding-top: 20px;
 }
 
 .card-title {
@@ -106,7 +108,7 @@
 
 .card {
   display: inline;
-  min-height: calc(100vh - 200px);
+  min-height: calc(55vh - 200px);
 }
 
 .link {
