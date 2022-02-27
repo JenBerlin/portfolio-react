@@ -4,9 +4,9 @@ import CardGroup from "react-bootstrap/CardGroup";
 
 function Resume() {
   return (
-    <Card body className="">
-      Coming from a more project management related background (event
-      management, PR/communication etc.) with several years of experience in the
+    <Card body className="resume">
+      Coming from a project management related background (event management,
+      PR/communication etc.) with several years of experience in the
       international context I can now offer additional skills to works/projects
       of web development.<br></br>
       <br></br>By joining a Full Stack Developer course I have learned how to
@@ -17,7 +17,7 @@ function Resume() {
       <br></br>I have graduated with using the following technology:<br></br>
       <br></br>
       <CardGroup>
-        <Card>
+        <Card className="card">
           <Card.Body>
             <Card.Title className="resume-list-headlines">
               Browser Based Technologies

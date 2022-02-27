@@ -54,6 +54,7 @@
   padding-right: 3rem;
   padding-left: 3rem;
   padding-top: 2rem;
+  min-height: calc(100vh - 200px);
 }
 
 .w-80 {
@@ -116,7 +117,22 @@
   color: #e64b3c;
   font-weight: bolder;
 }
+.resume {
+  font-size: large;
+  color: #6d6f72;
+  padding: 50px;
+  line-height: 180%;
+}
+
 .resume-list-headlines {
   font-weight: bolder;
   color: #b4d4d9;
+}
+
+.card {
+  border: none !important;
+}
+
+ul {
+  line-height: 100%;
 }
