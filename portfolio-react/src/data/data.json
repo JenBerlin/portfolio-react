@@ -21,24 +21,24 @@
     "Deployed": "https://drive.google.com/file/d/1uDXA3lKp52cEmvspV-cMGrTdqMEbpuhu/view?usp=sharing"
   },
   {
-    "name": "Test 1",
-    "description": "The repository contains a builded API for a social network web application.",
-    "image": "",
-    "GitHub": "https://github.com/JenBerlin/Social-Network-API/tree/dev",
-    "Deployed": "https://drive.google.com/file/d/1uDXA3lKp52cEmvspV-cMGrTdqMEbpuhu/view?usp=sharing"
+    "name": "Quiz",
+    "description": "Timed quiz on JavaScript fundumentals that stores high scores so that you can compare your own progress.",
+    "image": "./images/Quiz.gif",
+    "GitHub": "https://github.com/JenBerlin/Quiz",
+    "Deployed": "https://jenberlin.github.io/Quiz/"
   },
   {
-    "name": "Test 2",
-    "description": "The repository contains a builded API for a social network web application.",
-    "image": "",
-    "GitHub": "https://github.com/JenBerlin/Social-Network-API/tree/dev",
-    "Deployed": "https://drive.google.com/file/d/1uDXA3lKp52cEmvspV-cMGrTdqMEbpuhu/view?usp=sharing"
+    "name": "Note Taker",
+    "description": "This web application allow the user to add, save and delete to do's on a to do list..",
+    "image": "./images/Note-Taker.gif",
+    "GitHub": "https://github.com/JenBerlin/Note-Taker/tree/dev",
+    "Deployed": "https://note-taker-bla-bla.herokuapp.com/"
   },
   {
-    "name": "Test 3",
-    "description": "The repository contains a builded API for a social network web application.",
-    "image": "",
-    "GitHub": "https://github.com/JenBerlin/Social-Network-API/tree/dev",
-    "Deployed": "https://drive.google.com/file/d/1uDXA3lKp52cEmvspV-cMGrTdqMEbpuhu/view?usp=sharing"
+    "name": "Tech Blog",
+    "description": "This CMS style Blog application allows the user to singup and login to their account, publish and delete own blog posts and comment on other users blog posts.",
+    "image": "./images/Tech-Blog.gif",
+    "GitHub": "https://github.com/JenBerlin/Tech-Blog/tree/dev",
+    "Deployed": "https://cryptic-castle-55329.herokuapp.com/"
   }
 ]
