@@ -24,7 +24,6 @@ About
 ![Getting Started](./image/ScreenShot_1.png)
 
 Works
-![Getting Started](./image/ScreenShot_2.png)
 
 Resume
 ![Getting Started](./image/ScreenShot_3.png)
@@ -47,7 +46,7 @@ No test has been impletmented.
 
 # Repositery content/Building structure + deployed links
 
-´´
+```bash
 ├── backup-whateverfolder-2022-03-06.txt
 ├── build
 │   ├── asset-manifest.json
@@ -114,7 +113,7 @@ No test has been impletmented.
 │   └── Project.js
 ├── reportWebVitals.js
 └── setupTests.js
-´´
+```
 
 - GitHub: https://github.com/JenBerlin/portfolio-react
 - GitHub Page: https://jenberlin.github.io/portfolio-react/
