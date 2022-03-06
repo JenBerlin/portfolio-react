@@ -12,7 +12,7 @@ Table of content
 
 # Description
 
-This Web Application, deployed on GitHub Page, serves the purpose to demonstrate and show my skills, expiriences in the field of Web Development and gives the opportunity to contact the profile owner directly through the page itself. The page is build with ReactJs which creates a Single Page Application (SPS) by using one html file and the rest is handled by Javascript.
+This Web Application, deployed on GitHub Page, serves the purpose to demonstrate and show my skills, expiriences in the field of Web Development and gives the opportunity to contact the profile owner directly through the page itself. The page is build with ReactJs which creates a Single Page Application (SPA) by using one html file and the rest is handled by Javascript.
 
 # Installation
 
@@ -21,15 +21,15 @@ If you wanna run the app on your own system you will need to install all the nee
 # Usage
 
 About
-![Getting Started](./image/ScreenShot_1.png)
+![Getting Started](./portfolio-react/build/images/ScreenShot_1.png)
 
 Works
 
 Resume
-![Getting Started](./image/ScreenShot_3.png)
+![Getting Started](./portfolio-react/build/images/ScreenShot_3.png)
 
 Contact
-![Getting Started](./image/ScreenShot_4.png)
+![Getting Started](./portfolio-react/build/images/ScreenShot_4.png)
 
 # Tech/Framework used
 
