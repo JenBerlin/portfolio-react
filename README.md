@@ -24,6 +24,7 @@ About
 ![Getting Started](./portfolio-react/build/images/ScreenShot_1.png)
 
 Works
+![Getting Started](./portfolio-react/build/images/ScreenShot_2.png)
 
 Resume
 ![Getting Started](./portfolio-react/build/images/ScreenShot_3.png)
