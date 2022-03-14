@@ -2,42 +2,42 @@
   {
     "name": "Pack On Track",
     "description": "Pack On Track is a handy light-weight web app which keeps track of all your active online orders for you.",
-    "image": "./images/Pack_On_Track.gif",
+    "image": "/images/Pack_On_Track.gif",
     "GitHub": "https://github.com/JenBerlin/Pack-On-Track/tree/dev",
     "Deployed": "https://intense-lowlands-65258.herokuapp.com/"
   },
   {
     "name": "Carbon Down",
     "description": "Carbon Down app brings a real-world-problem to user's attention: the common responsible goal to track/reduce carbon emissions.",
-    "image": "./images/Carbon_Down.gif",
+    "image": "/images/Carbon_Down.gif",
     "GitHub": "https://github.com/jitasek/carbon-down",
     "Deployed": "https://jitasek.github.io/carbon-down/"
   },
   {
     "name": "Social Network API",
     "description": "The repository contains a builded API for a social network web application.",
-    "image": "./images/Social_Network.gif",
+    "image": "/images/Social_Network.gif",
     "GitHub": "https://github.com/JenBerlin/Social-Network-API/tree/dev",
     "Deployed": "https://drive.google.com/file/d/1uDXA3lKp52cEmvspV-cMGrTdqMEbpuhu/view?usp=sharing"
   },
   {
     "name": "Quiz",
     "description": "Timed quiz on JavaScript fundumentals that stores high scores so that you can compare your own progress.",
-    "image": "./images/Quiz.gif",
+    "image": "/images/Quiz.gif",
     "GitHub": "https://github.com/JenBerlin/Quiz",
     "Deployed": "https://jenberlin.github.io/Quiz/"
   },
   {
     "name": "Note Taker",
     "description": "This web application allow the user to add, save and delete to do's on a to do list..",
-    "image": "./images/Note-Taker.gif",
+    "image": "/images/Note-Taker.gif",
     "GitHub": "https://github.com/JenBerlin/Note-Taker/tree/dev",
     "Deployed": "https://note-taker-bla-bla.herokuapp.com/"
   },
   {
     "name": "Tech Blog",
     "description": "This CMS style Blog application allows the user to singup and login to their account, publish and delete own blog posts and comment on other users blog posts.",
-    "image": "./images/Tech-Blog.gif",
+    "image": "/images/Tech-Blog.gif",
     "GitHub": "https://github.com/JenBerlin/Tech-Blog/tree/dev",
     "Deployed": "https://cryptic-castle-55329.herokuapp.com/"
   }
